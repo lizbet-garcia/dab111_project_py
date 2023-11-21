@@ -1,2 +1,2 @@
-# LIZ_dab111_project_py
+# dab111_project_py
 python project repository
